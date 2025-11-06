@@ -48,4 +48,4 @@ Untuk memahami lebih lanjut mengenai konfigurasi dan simulasi ini, Anda bisa mer
 
 ## ✒️ Kontributor
 
-* **[NMuhammad Hanif Saputra / hnf-svgh]**
+* **[Muhammad Hanif Saputra / hnf-svgh]**
