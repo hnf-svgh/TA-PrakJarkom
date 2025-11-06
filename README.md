@@ -22,6 +22,7 @@ Proyek ini bertujuan untuk:
 <img width="406" height="407" alt="ping berhasil" src="https://github.com/user-attachments/assets/cb0fafe7-635d-45d9-9185-150a9928bce9" />
 
 **ping berhasil**.
+
 ---
 
 ## 💻 Langkah-Langkah Singkat (Opsional: Dapat Diganti dengan Detail Konfigurasi)
