@@ -16,9 +16,11 @@ Proyek ini bertujuan untuk:
 ## 🛠️ Isi Repository
 
 <img width="416" height="127" alt="ping blm berhasil" src="https://github.com/user-attachments/assets/a1a50ce1-6fb8-42cc-a17b-9ee22420eee8" />
- **ping belum berhasil**.
+
+**ping belum berhasil**.
 
 <img width="406" height="407" alt="ping berhasil" src="https://github.com/user-attachments/assets/cb0fafe7-635d-45d9-9185-150a9928bce9" />
+
 **ping berhasil**.
 ---
 
@@ -40,8 +42,6 @@ Untuk memahami lebih lanjut mengenai konfigurasi dan simulasi ini, Anda bisa mer
 * **[Judul Video YouTube yang Relevan]**
     [[Link Video YouTube Anda di sini](https://youtu.be/YJMnoQQQ1P4?si=_NZbUnkW4hWu-D_p)]
 
-*(Contoh: **Tutorial Dasar Konfigurasi Jaringan di Packet Tracer**
-https://www.youtube.com/watch?v=xxxxxxxx)*
 
 ---
 
